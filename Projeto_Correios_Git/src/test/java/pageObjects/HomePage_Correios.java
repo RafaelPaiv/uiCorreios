@@ -13,7 +13,6 @@ public class HomePage_Correios extends Metodos {
 	// Elementos
 
 	public By campoBuscarCEP = By.xpath("//input[@id='relaxation']");
-	// public By btnBuscarCEP = By.xpath("//input[@id='relaxation']");
 	public By logradouro = By.xpath("//td[@data-th='Logradouro/Nome']");
 	public By bairro = By.xpath("//td[@data-th='Bairro/Distrito']");
 	public By uf = By.xpath("//td[@data-th='Localidade/UF']");
